@@ -1,7 +1,7 @@
 pandas
 numpy
 tqdm
-dvc
+mlflow
 PyYAML
 mkdocs-material
 ### local packages -
