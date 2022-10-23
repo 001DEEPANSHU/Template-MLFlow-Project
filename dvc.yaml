@@ -1,0 +1,8 @@
+# add the stages here 
+# stages:
+#   stage_name:
+#     cmd: python src/pipeline/stage_01______.py (python command to run)
+#     deps:
+#     - src/pipeline/stage_01______.py (path of dependency files)
+#     outs:
+#     - path of output file

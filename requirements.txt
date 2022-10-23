@@ -1,0 +1,8 @@
+pandas
+numpy
+tqdm
+dvc
+PyYAML
+mkdocs-material
+### local packages -
+# -e .
